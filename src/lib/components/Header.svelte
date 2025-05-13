@@ -2,9 +2,9 @@
 
 
 <div id="sign-options">
-    <a href="/auth/login">INICIAR SESION</a>
+    <!--a href="/auth/login">INICIAR SESION</a!-->
     <img src="book_icon.png" alt="icono de libro" id="icono"/>
-    <a href="/auth/register">REGISTRARSE</a>
+    <!--a href="/auth/register">REGISTRARSE</a!-->
 </div>
 <header>
     <a href="./">Agenda</a>

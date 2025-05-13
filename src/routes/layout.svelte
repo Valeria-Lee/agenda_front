@@ -6,7 +6,7 @@
 
 <div id="section">
     <div>
-        <a href="/" id="homeBtn">agenda de {username}</a>
+        <a href="/" id="homeBtn">agenda</a>
         <h2>⊹ {name} ⊹</h2>
     </div>
     {@render children()}
